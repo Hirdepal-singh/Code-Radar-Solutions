@@ -4,6 +4,6 @@ int main()
 {
     char a;
     printf("");
-    scanf("%c",&a);
+    scanf("%s",&a);
     printf("ASSCII Value %c: %s",a,a);
 }
