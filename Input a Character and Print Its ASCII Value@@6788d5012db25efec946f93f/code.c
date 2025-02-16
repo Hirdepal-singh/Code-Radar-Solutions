@@ -5,5 +5,5 @@ int main()
     char a;
     printf("");
     scanf("%s",a);
-    printf("ASSCII Value %c: %s",a);
+    printf("ASSCII Value %c: %s",a,a);
 }
