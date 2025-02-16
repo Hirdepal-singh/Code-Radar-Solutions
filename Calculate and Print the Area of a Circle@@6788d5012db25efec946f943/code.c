@@ -7,5 +7,5 @@ int main()
     printf("");
     scanf("%d",&r);
     area=3.14*r;
-    printf("Area: %f",area);
+    printf("Area: %.2f",area);
 }
