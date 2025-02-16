@@ -1,5 +1,5 @@
 // Your code here...
-#inlclude<stdio.h>
+#include<stdio.h>
 int main()
 {
     char a;
